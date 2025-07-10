@@ -11,11 +11,11 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://<your-public-url>/openapi.yaml"
+    "url": "https://bmarkenson.github.io/gpt-assistant-gmail-auth/plugin/openapi.yaml"
   },
-  "logo_url": "https://<your-public-url>/logo.png",
+  "logo_url": "https://bmarkenson.github.io/gpt-assistant-gmail-auth/plugin/gpt-assistant-gmail-auth-logo.png",
   "contact_email": "brianm@email.com",
-  "legal_info_url": "https://<your-public-url>/terms.html"
+  "legal_info_url": "https://bmarkenson.github.io/gpt-assistant-gmail-auth/plugin/terms.html"
 }
 
 
